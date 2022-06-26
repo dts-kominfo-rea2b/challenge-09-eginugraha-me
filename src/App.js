@@ -1,4 +1,7 @@
 import "./App.css";
+import Header from "./components/Header";
+import Contact from "./components/Contact";
+import contacts from "./data/contacts.json";
 
 // Uncomment untuk memuat daftar kontak
 // import contacts from './data/contacts.json';
